@@ -28,7 +28,7 @@ How to Use the Dymo® LabelWriter® 500 Series Printers?
 
 
 
-The Dymo® LabelWriter® 500 series offers fast, high-quality label printing for home and office use. To get started, make sure your `Dymo Printer <https://dyp.redircoms.com>`_ is correctly installed and configured. You can find the necessary drivers and Dymo Connect software at the official `Dymo Printer <https://dyp.redircoms.com>`_ setup page.
+The Dymo® LabelWriter® 500 series offers fast, high-quality label printing for home and office use. To get started, make sure your Dymo Printer is correctly installed and configured. You can find the necessary drivers and Dymo Connect software at the official `Dymo Printer <https://dyp.redircoms.com>`_ setup page.
 
 Getting Started with the 500 Series
 -----------------------------------
